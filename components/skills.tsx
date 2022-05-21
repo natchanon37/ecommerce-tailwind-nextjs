@@ -44,7 +44,7 @@ const Skills: React.FC = () => {
             style={{ opacity: opcaityForBlock(progress, 1) }}
           >
             {" "}
-            Our team has contributed 123 commits to React native, powering
+            Our team has contributed many commits to React native, powering
             thousands of apps around world.
           </span>
           <span
